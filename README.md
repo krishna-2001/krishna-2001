@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishna-2001
 - 👀 I’m interested in networking and risk assesment...
 - 🌱 I’m currently learning Networking
-- 💞️ I’m looking to collaborate on Gitbub and linkdedin
+- 💞️ I’m looking to collaborate on Gitbub and linkedin
 - 📫 How to reach me Git and linkdin
 
 <!---
